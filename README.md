@@ -9,7 +9,7 @@ Welcome to **ApiStudio** — *The Next-Gen AI Engine & The Infinite Pipeline*. T
 ---
 
 ## ✨ Live Demo
-🔗 **Experience now:** [https://api-studio-nine.vercel.app/](https://api-studio-nine.vercel.app/)
+🔗 **Experience now:** https://apistudio-seven.vercel.app/
 
 ---
 

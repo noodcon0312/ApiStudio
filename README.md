@@ -8,6 +8,11 @@ Welcome to **ApiStudio** — *The Next-Gen AI Engine & The Infinite Pipeline*. T
 
 ---
 
+## ✨ Live Demo
+🔗 **Experience now:** [https://api-studio-nine.vercel.app/](https://api-studio-nine.vercel.app/)
+
+---
+
 ## 🔥 Core Features
 
 ### 🧩 Feature 1: Infinite Quota — Break the Rate Limits
@@ -28,10 +33,6 @@ Welcome to **ApiStudio** — *The Next-Gen AI Engine & The Infinite Pipeline*. T
 ### 🛠️ Feature 4: Easy to Use — Deploy Instantly
 * No complex setups required.
 * Type a prompt, test your model, and deploy it as a micro-app instantly. Experience the simplicity of ApiStudio.
-
----
-
-##live web✨: https://api-studio-nine.vercel.app/
 
 ---
 
